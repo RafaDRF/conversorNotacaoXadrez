@@ -1,2 +1,2 @@
-# Conversor de Notacao Xadrez
+# Conversor de Notação Xadrez
 Converte notação descritiva/algébrica de Xadrez
