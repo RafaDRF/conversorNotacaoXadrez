@@ -1,2 +1,2 @@
-# tradutorDeNotacaoXadrez
-Um tradutor de notação descritiva/algébrica de Xadrez
+# Conversor de Notacao Xadrez
+Converte notação descritiva/algébrica de Xadrez
